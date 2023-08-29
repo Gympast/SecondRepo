@@ -1,0 +1,14 @@
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\bin\Debug\net7.0\SecondRepo.exe
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\bin\Debug\net7.0\SecondRepo.deps.json
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\bin\Debug\net7.0\SecondRepo.runtimeconfig.json
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\bin\Debug\net7.0\SecondRepo.dll
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\bin\Debug\net7.0\SecondRepo.pdb
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\obj\Debug\net7.0\SecondRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\obj\Debug\net7.0\SecondRepo.AssemblyInfoInputs.cache
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\obj\Debug\net7.0\SecondRepo.AssemblyInfo.cs
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\obj\Debug\net7.0\SecondRepo.csproj.CoreCompileInputs.cache
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\obj\Debug\net7.0\SecondRepo.dll
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\obj\Debug\net7.0\refint\SecondRepo.dll
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\obj\Debug\net7.0\SecondRepo.pdb
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\obj\Debug\net7.0\SecondRepo.genruntimeconfig.cache
+D:\skola\GitHub\SecondRepo\SecondRepo\SecondRepo\obj\Debug\net7.0\ref\SecondRepo.dll
