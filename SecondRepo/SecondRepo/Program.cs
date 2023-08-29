@@ -1,24 +1,25 @@
 ﻿
-//övning 1
-Console.Write("Write your name: ");
-string name = Console.ReadLine();
-
-Console.WriteLine($"Hello {name}!");
-
-///////////////////////////////////////////////
-
-//övning 2
-
-Console.Write("Enter your password: ");
-string passWord = "Hoppsan";
-
-if (Console.ReadLine() == passWord)
+static void ovning1()
 {
-    Console.WriteLine("Rätt");
+    Console.Write("Write your name: ");
+    string name = Console.ReadLine();
+
+    Console.WriteLine($"Hello {name}!");
 }
-else
+
+static void ovning2()
 {
-    Console.WriteLine("FEL FEL FEL FEL FEL");
+    Console.Write("Enter your password: ");
+    string passWord = "Hoppsan";
+
+    if (Console.ReadLine() == passWord)
+    {
+        Console.WriteLine("Rätt");
+    }
+    else
+    {
+        Console.WriteLine("FEL FEL FEL FEL FEL");
+    }
 }
 ///////////////////////////////////////////////
 
